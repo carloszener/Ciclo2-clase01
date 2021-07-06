@@ -10,7 +10,7 @@ public class Lectura {
 
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("Por favor introduzca un nombre:");
+		System.out.println("Por favor introduzca su nombre:");
 		String x = br.readLine();
 		System.out.println("Hola " + x);
 
